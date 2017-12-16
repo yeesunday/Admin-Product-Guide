@@ -14,8 +14,6 @@
 
 * 字体
 
-  * 参考 36氪
-
   ```css
   font-family: font-family: "Helvetica Neue",Helvetica,"PingFang SC","Hiragino Sans GB","Microsoft YaHei","微软雅黑",Arial,sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -24,8 +22,6 @@
   -ms-text-size-adjust: 100%!important;
   -webkit-text-size-adjust: 100%!important;
   ```
-
-  * 字体大小
 
 
 
