@@ -10,13 +10,14 @@
     * 中灰：用作次标题、辅助文字
     * 深灰：用作主标题、正文、深色背景
 
-![](/assets/heading.png)
+![](/assets/1513412287425.jpg)
 
 * 字体
+
   * 参考 36氪
 
   ```css
-  font-family: PingFang SC,Lantinghei SC,Helvetica Neue,Helvetica,Arial,Microsoft YaHei,\\5FAE\8F6F\96C5\9ED1,STHeitiSC-Light,simsun,\\5B8B\4F53,WenQuanYi Zen Hei,WenQuanYi Micro Hei,"sans-serif";
+  font-family: font-family: "Helvetica Neue",Helvetica,"PingFang SC","Hiragino Sans GB","Microsoft YaHei","微软雅黑",Arial,sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-size-adjust: 100%!important;
