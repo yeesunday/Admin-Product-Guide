@@ -1,3 +1,4 @@
-# My Awesome Book
+# 管理后台产品规范
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+包含基本设计约定和功能组件交互
+
